@@ -5,10 +5,10 @@
 
 Este é o meu primeiro projeto prático de Lógica de Programação, desenvolvido durante o bootcamp da **DIO (Digital Innovation One)**.
 
-## 🎯 Objetivo do Projeto
+## * Objetivo do Projeto
 Criar um script que recebe o nome e a quantidade de experiência (XP) de um herói e, baseado em estruturas de decisão, classifica em qual nível ele está (Ferro, Bronze, Prata, Ouro, etc.).
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+## 💻 Tecnologias e Conceitos Utilizados
 - **JavaScript**
 - Variáveis e Tipos de Dados
 - Operadores Lógicos e Aritméticos
@@ -19,3 +19,4 @@ Criar um script que recebe o nome e a quantidade de experiência (XP) de um her�
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/SeuUsuario/Jornada-Do-Heroi.git](https://github.com/SeuUsuario/Jornada-Do-Heroi.git) 
+
