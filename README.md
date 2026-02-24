@@ -18,5 +18,5 @@ Criar um script que recebe o nome e a quantidade de experiência (XP) de um her�
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/Jornada-Do-Heroi.git](https://github.com/SeuUsuario/Jornada-Do-Heroi.git) 
+   git clone https://github.com/ViniciusDurand/Jornada-Do-Heroi.git
 
